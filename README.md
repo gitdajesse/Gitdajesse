@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Jesse:
 👋 Aspiring Full-Stack Developer | Building End-to-End Systems<br>Passionate about the entire development lifecycle—from designing intuitive user interfaces with HTML5, CSS3, and JavaScript to building robust server-side logic with Python, managing databases with MySQL, and automating deployment workflows. I thrive on turning ideas into fully functional, scalable applications.<br><br>🛠️ Tech Stack: HTML5 ,CSS3 ,JavaScript ,Python ,C ,MySQL and Git/GitHub<br><br>🎯 Current Focus: Deepening my fundamentals in Computer Science, while actively building projects that integrate front-end, back-end, and DevOps principles. On the path to mastering full-stack development with future goals in DevOps, AI, and system security.<br><br>🚀 Beyond Code: When not debugging, you can find me swimming laps—a sport that teaches endurance and consistent forward motion, much like software development.<br><br>📫 Let's Connect: Open to collaborating on innovative projects, hackathons, or open-source contributions.
 
 ## 🌐 Socials:
